@@ -1,8 +1,8 @@
-# Trustbuilder AI: Provider Onboarding Survey
+# Trustbuilder AI: Provider Survey
 
 Welcome to Trustbuilder AI. Let's build more robust and reliable AI, together.
 
-We're excited to partner with you. This brief survey is designed to understand
+We're excited to partner with you. This brief 10 question survey is designed to understand
 your model, your goals, and your challenges. Your answers will help us tailor
 the testing process to deliver the most valuable insights for your team.
 
